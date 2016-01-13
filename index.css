@@ -1,0 +1,34 @@
+ body {
+    background-image: url("https://scontent-sea1-1.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/11377126_10206818540405797_8790086351132401951_n.jpg?oh=2609fa4346b51c3d2b7a9334231488d0&oe=57004109");
+    background-repeat: no-repeat;
+    background-size: 1367px 883px;
+}
+
+#exercises {
+
+	height: 226px;
+	width: 121px;
+	background: white;
+}
+
+#projects {
+
+	height: 100px;
+	width: 121px;
+	background: white;
+	text-decoration: none;
+}
+
+#class {
+
+    height: 30px;
+    width: 121px;
+    background: white;
+    position: relative;
+    font-size: 21px;
+  }
+
+h1 {
+
+	color: white;
+}

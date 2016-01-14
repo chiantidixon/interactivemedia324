@@ -1,0 +1,17 @@
+div {
+	background-color: black;
+	border: 1px solid white;
+}
+#first {
+
+	height: 500px;
+	width: 100%;
+	background-color: transparent;
+
+}
+
+.rectangle {
+	height: 500px;
+	width: 700px;
+
+}

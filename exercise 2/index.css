@@ -1,0 +1,47 @@
+
+html,body{
+
+	height: 100%;
+}
+
+body {
+
+	background-color: black;
+
+}
+
+h1{
+
+	font-size: 10vw;
+	color: white;
+	font-family: Geneva, Sans-Serif;
+}
+
+@media screen and (max-width: 1024px) {
+
+	body { background: url(file:///D:/IM/GitHub/interactivemedia324/exercise%20II/assets/images/10153840_10205543359647075_9120638109566000286_n.jpg);}
+}
+
+@media screen and (max-width: 768px) {
+
+	body { background: url(file:///D:/IM/GitHub/interactivemedia324/exercise%20II/assets/images/11206030_10206818542845858_4763602009915968033_n.jpg);}
+	
+}
+
+@media screen and (max-width: 600px) {
+
+	body { background: url(file:///D:/IM/GitHub/interactivemedia324/exercise%20II/assets/images/2431_1097720206940_5691162_n.jpg);}
+	
+}
+
+@media screen and (max-width: 480px) {
+
+	body { background: url(file:///D:/IM/GitHub/interactivemedia324/exercise%20II/assets/images/10271486_10204102289181214_1307249572958106511_n.jpg);}
+	
+}
+
+@media screen and (max-width: 320px) {
+
+	body { background: url(file:///D:/IM/GitHub/interactivemedia324/exercise%20II/assets/images/11159962_883798061692892_7746981829220152042_n.jpg);}
+	
+}

@@ -51,7 +51,7 @@
 }
 
 
-/*background setup*/
+
 
 #page_one{
 
@@ -63,7 +63,7 @@
 #page_two{
 
 	height: 1000px;
-	background: url(file:///D:/IM/P1illustrations/Background_Fries.png);
+	background: url(http://chiantidixon.github.io/interactivemedia324/project1/backgrounds/backpack_background.gif);
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
@@ -79,5 +79,20 @@
 #page_four{
 
 	height: 1000px;
-	background-color: orange;
+	background: url(http://chiantidixon.github.io/interactivemedia324/project1/backgrounds/bad.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+/*Gifs*/
+
+.mouth{
+
+	height: 400px;
+    right: -28px;
+    top: 135px;
+    background: url(http://chiantidixon.github.io/interactivemedia324/project1/foregrounds/Loud-Eating.gif);
+    position: relative;
+    background-size: 100% 100%;
+
 }
